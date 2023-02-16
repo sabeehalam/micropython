@@ -6,6 +6,7 @@
     "features": [
         "Breadboard friendly",
         "Castellated Pads",
+        "Ethernet"
         "Micro USB"
     ],
     "id": "rp2-pico",
